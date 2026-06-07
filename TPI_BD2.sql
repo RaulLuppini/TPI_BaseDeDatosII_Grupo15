@@ -59,7 +59,7 @@ CREATE TABLE Producto(
     PrecioCompra DECIMAL (10,2) NOT NULL,
     PorcentajeGanancia DECIMAL (5,2) NOT NULL,
     PrecioVenta DECIMAL (10,2) NOT NULL,
-    StockAnual INTEGER NOT NULL,
+    StockActual INTEGER NOT NULL,
     StockMinimo INTEGER NOT NULL,
     Estado BIT NOT NULL,
 )
