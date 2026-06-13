@@ -1,0 +1,81 @@
+﻿
+
+.div-contenedor-producto {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 150px;
+    margin:5%;
+}
+
+.div-img-carrito {
+    min-height: 100px;
+    min-width: 100px;
+    width: 30%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .div-img-carrito img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        object-position: center;
+    }
+
+.buttonAddCart {
+    appearance: none;
+    background-color: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    min-height: 60px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 100%;
+    will-change: transform;
+}
+
+    .buttonAddCart:disabled {
+        pointer-events: none;
+    }
+
+    .buttonAddCart:hover {
+        box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+        transform: translateY(-2px);
+    }
+
+    .buttonAddCart:active {
+        box-shadow: none;
+        transform: translateY(0);
+    }
+
+
+.div-button-eliminar {
+    width:45px;
+    height:45px;
+    overflow:hidden;
+}
+
+.imagebtDelete {
+width:100%;
+height:100%;
+object-fit:contain;
+}

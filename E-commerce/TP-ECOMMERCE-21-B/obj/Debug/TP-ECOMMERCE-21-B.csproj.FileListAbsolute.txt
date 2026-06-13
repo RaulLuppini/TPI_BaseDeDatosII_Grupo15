@@ -1,0 +1,255 @@
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\TP-ECOMMERCE-21-B.dll.config
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\TP-ECOMMERCE-21-B.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\TP-ECOMMERCE-21-B.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csc.exe
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csc.exe.config
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csc.rsp
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csi.exe
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csi.exe.config
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csi.rsp
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.AppContext.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Console.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.Compression.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Net.Http.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Net.Sockets.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.ValueTuple.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.XPath.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\vbc.exe
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\vbc.exe.config
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\vbc.rsp
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\VBCSCompiler.exe
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Antlr3.Runtime.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Newtonsoft.Json.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\System.Web.Optimization.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\WebGrease.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\System.Web.Optimization.xml
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Newtonsoft.Json.xml
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Antlr3.Runtime.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\es\System.Web.Optimization.resources.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.csproj.AssemblyReference.cache
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.csproj.CoreCompileInputs.cache
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMM.8057015F.Up2Date
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\dominio.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\negocio.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\accesoAdatos.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\dominio.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\negocio.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\accesoAdatos.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\TP-ECOMMERCE-21-B.dll.config
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\TP-ECOMMERCE-21-B.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\TP-ECOMMERCE-21-B.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csc.exe
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csc.exe.config
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csc.rsp
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csi.exe
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csi.exe.config
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\csi.rsp
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.AppContext.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Console.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Net.Http.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\vbc.exe
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\vbc.exe.config
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\vbc.rsp
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Antlr3.Runtime.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\dominio.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\negocio.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Newtonsoft.Json.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\System.Web.Optimization.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\WebGrease.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\accesoAdatos.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\dominio.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\negocio.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\System.Web.Optimization.xml
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Newtonsoft.Json.xml
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Antlr3.Runtime.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\accesoAdatos.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.csproj.AssemblyReference.cache
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMM.8057015F.Up2Date
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\service.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\service.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\service.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\service.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\MercadoPago.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\MercadoPago.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\MercadoPago.xml
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\MercadoPago.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\MercadoPago.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\TP-ECOMMERCE-21-B\bin\MercadoPago.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\TP-ECOMMERCE-21-B.dll.config
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\TP-ECOMMERCE-21-B.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\TP-ECOMMERCE-21-B.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\csc.exe
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\csc.exe.config
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\csc.rsp
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\csi.exe
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\csi.exe.config
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\csi.rsp
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.AppContext.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Console.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.Compression.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.FileSystem.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Net.Http.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Net.Sockets.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.ValueTuple.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.XPath.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\vbc.exe
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\vbc.exe.config
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\vbc.rsp
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\VBCSCompiler.exe
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Antlr3.Runtime.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\dominio.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\MercadoPago.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Microsoft.Web.Infrastructure.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\negocio.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Newtonsoft.Json.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\service.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\System.Web.Optimization.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\WebGrease.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\accesoAdatos.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\dominio.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\negocio.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\service.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\MercadoPago.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\MercadoPago.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\System.Web.Optimization.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Newtonsoft.Json.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Antlr3.Runtime.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\accesoAdatos.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\es\System.Web.Optimization.resources.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.csproj.AssemblyReference.cache
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.csproj.CoreCompileInputs.cache
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMM.8057015F.Up2Date
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\TP-ECOMMERCE-21-B\obj\Debug\TP-ECOMMERCE-21-B.pdb

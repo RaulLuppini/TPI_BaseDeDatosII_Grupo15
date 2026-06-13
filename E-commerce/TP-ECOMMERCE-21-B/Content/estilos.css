@@ -1,0 +1,145 @@
+﻿/* Contenedor principal (fondo azul) */
+#div-container-product {
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column; /* apila contenido: bloque verde + botón */
+    justify-content: flex-start; /* alinea todo desde arriba */
+    align-items: center; /* centra horizontalmente */
+    gap: 5vh;
+    margin-top:5%;
+}
+
+/* Contenedor verde (detalle del producto) */
+#div-details {
+    display: flex;
+    justify-content: flex-start; /* imagen y texto uno al lado del otro */
+    flex-wrap: wrap;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    background-color: gainsboro;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    gap: 40px; /* separa imagen y texto */
+}
+
+/* Imagen del producto */
+#div-img {
+    flex: 1;
+    background-color: #ffffff;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 180px; /* 👈 evita que se encoja demasiado */
+    min-height: 250px; /* 👈 opcional */
+}
+
+.imagen-producto {
+    width: auto;
+    height: 100%;
+    max-height: 350px;
+    object-fit: contain;
+}
+
+/* Texto del producto */
+#div-text {
+   height:100%;
+   display:flex;
+   flex:2;
+   justify-content:center;
+   flex-direction:column;
+   align-content:center;
+   gap:20px;
+}
+
+/*Cajas de suma y resta*/
+#div-buttonsCant{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    align-content:center;
+}
+
+.buttonCant {
+    height: 40px;
+    width: 40px;
+   
+}
+
+.labelNum {
+    display: inline-block; /* Para poder aplicar ancho y centrado */
+    width: 40px; /* ajustá según necesites */
+    text-align: center; /* centra el texto horizontalmente */
+    font-size: 20px;
+    font-weight: bold;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+.buttonAddCart {
+    appearance: none;
+    background-color: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    min-height: 60px;
+    min-width: 0;
+    outline: none;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 100%;
+    will-change: transform;
+}
+
+.buttonAddCart:disabled {
+    pointer-events: none;
+}
+
+.buttonAddCart:hover {
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+}
+
+.buttonAddCart:active {
+    box-shadow: none;
+    transform: translateY(0);
+}
+
+
+.message-box {
+    padding: 12px 18px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    display: inline-block;
+    opacity: 0;
+    transition: opacity .4s ease-in-out;
+    margin-top: 10px;
+}
+
+.message-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 2px solid #c3e6cb;
+}
+
+.message-error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 2px solid #f5c6cb;
+}

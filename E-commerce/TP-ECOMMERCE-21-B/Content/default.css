@@ -1,0 +1,33 @@
+﻿.div-buscadores {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    width: 100%;
+    height: 40px;
+    /* Esto centra verticalmente todos los elementos (p, inputs, selects) */
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.select-category{
+    width:120px;
+    height: 30px;
+}
+/* Esta es la magia: empuja este elemento (y los siguientes) al final a la derecha */
+.buscador-right {
+    margin-left: auto;
+}
+
+/* Ajustes visuales para los items individuales */
+.divs-contentBuscador {
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Asegura que texto y dropdown estén alineados */
+    gap: 5px;
+}
+
+    /* Pequeño fix: A veces los párrafos tienen margen y desalinean todo */
+    .divs-contentBuscador p {
+        margin: 0;
+        padding-right: 5px;
+    }

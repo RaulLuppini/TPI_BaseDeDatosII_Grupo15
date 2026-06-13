@@ -1,0 +1,47 @@
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\negocio.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\negocio.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\accesoAdatos.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\dominio.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\accesoAdatos.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\dominio.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\negocio.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\negocio.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\accesoAdatos.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\dominio.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\accesoAdatos.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\dominio.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\obj\Debug\negocio.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\MercadoPago.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\MercadoPago.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\MercadoPago.xml
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\MercadoPago.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\MercadoPago.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\negocio\bin\Debug\MercadoPago.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\negocio.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\negocio.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\accesoAdatos.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\dominio.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\MercadoPago.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\accesoAdatos.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\dominio.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\MercadoPago.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\MercadoPago.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\obj\Debug\negocio.csproj.Up2Date
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\obj\Debug\negocio.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\obj\Debug\negocio.pdb

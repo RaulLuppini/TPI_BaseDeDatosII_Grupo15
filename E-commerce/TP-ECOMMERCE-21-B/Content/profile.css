@@ -1,0 +1,77 @@
+﻿body {
+}
+
+
+#container-infoUser {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center; /* centro vertical */
+    align-items: center; /* centro horizontal */
+    min-height: 35vh;
+    gap: 1.5rem;
+}
+
+
+    #container-NombreId span {
+        display: block;
+    }
+
+
+#container-NombreId {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* aquí también lo necesitas */
+    gap: 1.5rem;
+}
+
+#MainContent_IDusuario{
+    font-size: 1rem;
+    color:lightslategray;
+
+}
+
+#MainContent_nombreUser {
+    font-size: 2rem;
+}
+
+
+#container-infoDatos {
+    border-top: 1px solid black;
+    display: flex;
+    justify-content: space-around; /* separa a los dos bloques */
+    align-items: center;
+    width: 100%;
+   padding: 1rem 0;
+  
+}
+
+.contactoUser {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+
+#container-password {
+    border-top: 1px solid black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 1rem 0 1rem;
+    align-items:center;
+    justify-content:center;
+}
+
+
+.div-password {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items:center;
+    gap: 1rem;
+   
+}

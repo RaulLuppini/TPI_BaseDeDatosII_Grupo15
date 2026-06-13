@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FB2A66-9747-4064-969E-1713335019FF}|..\\negocio\\negocio.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\negocio\\negociopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FB2A66-9747-4064-969E-1713335019FF}|..\\negocio\\negocio.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\negocio\\negociousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9CE420-DAF8-4F0C-BD57-EBDDE99901B3}|..\\accesoAdatos\\accesoAdatos.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\accesoadatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FB2A66-9747-4064-969E-1713335019FF}|..\\negocio\\negocio.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\negocio\\negocioproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\gestionproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|solutionrelative:gestionproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\gestionproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|solutionrelative:gestionproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\tp-ecommerce-21-b\\formulariopago.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|solutionrelative:formulariopago.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\tp-ecommerce-21-b\\pedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|solutionrelative:pedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\tp-ecommerce-21-b\\formulariopago.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|solutionrelative:formulariopago.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\tp-ecommerce-21-b\\pedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{44535DD0-8210-429E-AE52-A11DD4A35E6F}|TP-ECOMMERCE-21-B.csproj|solutionrelative:pedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE03BB2-2BC9-4C85-BF34-C4AB5AD1DDE7}|..\\dominio\\dominio.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\dominio\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE03BB2-2BC9-4C85-BF34-C4AB5AD1DDE7}|..\\dominio\\dominio.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\dominio\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FB2A66-9747-4064-969E-1713335019FF}|..\\negocio\\negocio.csproj|d:\\documentos\\utn\\5 cuatrimestre\\basededatos2\\modelot.p.i\\e-commerce\\negocio\\negociomarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 204,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\dominio\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "..\\dominio\\DetallePedido.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\dominio\\DetallePedido.cs",
+              "RelativeToolTip": "..\\dominio\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:10:21.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\accesoAdatos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "..\\accesoAdatos\\AccesoDatos.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\accesoAdatos\\AccesoDatos.cs",
+              "RelativeToolTip": "..\\accesoAdatos\\AccesoDatos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:03:48.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "negocioPedido.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\negocio\\negocioPedido.cs",
+              "RelativeDocumentMoniker": "..\\negocio\\negocioPedido.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\negocio\\negocioPedido.cs",
+              "RelativeToolTip": "..\\negocio\\negocioPedido.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T00:41:14.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\dominio\\Pedido.cs",
+              "RelativeDocumentMoniker": "..\\dominio\\Pedido.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\dominio\\Pedido.cs",
+              "RelativeToolTip": "..\\dominio\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:17:53.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pedidos.aspx",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\pedidos.aspx",
+              "RelativeDocumentMoniker": "pedidos.aspx",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\pedidos.aspx",
+              "RelativeToolTip": "pedidos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-06-11T23:29:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "negocioUsuario.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\negocio\\negocioUsuario.cs",
+              "RelativeDocumentMoniker": "..\\negocio\\negocioUsuario.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\negocio\\negocioUsuario.cs",
+              "RelativeToolTip": "..\\negocio\\negocioUsuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T00:02:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormularioPago.aspx.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\FormularioPago.aspx.cs",
+              "RelativeDocumentMoniker": "FormularioPago.aspx.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\FormularioPago.aspx.cs",
+              "RelativeToolTip": "FormularioPago.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:33:48.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pedidos.aspx.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\pedidos.aspx.cs",
+              "RelativeDocumentMoniker": "pedidos.aspx.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\pedidos.aspx.cs",
+              "RelativeToolTip": "pedidos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:29:34.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "negocioProducto.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\negocio\\negocioProducto.cs",
+              "RelativeDocumentMoniker": "..\\negocio\\negocioProducto.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\negocio\\negocioProducto.cs",
+              "RelativeToolTip": "..\\negocio\\negocioProducto.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:51:10.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gestionProductos.aspx",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\gestionProductos.aspx",
+              "RelativeDocumentMoniker": "gestionProductos.aspx",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\gestionProductos.aspx",
+              "RelativeToolTip": "gestionProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-27T20:15:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gestionProductos.aspx.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\gestionProductos.aspx.cs",
+              "RelativeDocumentMoniker": "gestionProductos.aspx.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\gestionProductos.aspx.cs",
+              "RelativeToolTip": "gestionProductos.aspx.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwE8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T20:15:57.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormularioPago.aspx",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\FormularioPago.aspx",
+              "RelativeDocumentMoniker": "FormularioPago.aspx",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\TP-ECOMMERCE-21-B\\FormularioPago.aspx",
+              "RelativeToolTip": "FormularioPago.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-06-08T23:33:38.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "negocioMarca.cs",
+              "DocumentMoniker": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\negocio\\negocioMarca.cs",
+              "RelativeDocumentMoniker": "..\\negocio\\negocioMarca.cs",
+              "ToolTip": "D:\\Documentos\\UTN\\5 CUATRIMESTRE\\BaseDeDatos2\\ModeloT.P.I\\E-commerce\\negocio\\negocioMarca.cs",
+              "RelativeToolTip": "..\\negocio\\negocioMarca.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwE8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T21:11:23.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

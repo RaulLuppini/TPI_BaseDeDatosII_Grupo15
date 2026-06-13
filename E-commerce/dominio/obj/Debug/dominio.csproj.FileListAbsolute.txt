@@ -1,0 +1,35 @@
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\dominio.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\dominio.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\dominio.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\dominio.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\MercadoPago.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\MercadoPago.pdb
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\MercadoPago.xml
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\raull\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.csproj.Up2Date
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\MercadoPago.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\MercadoPago.pdb
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\bin\Debug\MercadoPago.xml
+C:\Users\Ale\Desktop\TP-ECOMMERCE-21-B\dominio\obj\Debug\dominio.csproj.Up2Date
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\bin\Debug\dominio.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\bin\Debug\dominio.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\bin\Debug\MercadoPago.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\bin\Debug\MercadoPago.pdb
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\bin\Debug\MercadoPago.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\obj\Debug\dominio.csproj.Up2Date
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\obj\Debug\dominio.dll
+D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\obj\Debug\dominio.pdb
