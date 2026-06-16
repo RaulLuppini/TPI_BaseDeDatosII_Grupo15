@@ -309,6 +309,24 @@ SELECT
 FROM Usuario;
 GO
 
+--Vista para chequear productos que requieren reposición
+CREATE VIEW VW_ProductosAReponer AS
+SELECT 
+    p.IDProducto,
+    p.Codigo,
+    p.Nombre AS Producto,
+    m.Nombre AS Marca,
+    c.Nombre AS Categoria,
+    p.StockActual,
+    p.StockMinimo,
+    (p.StockMinimo - p.StockActual) AS CantidadAReponer
+FROM Producto p
+INNER JOIN Marca m ON p.IDMarca = m.IDMarca
+INNER JOIN Categoria c ON p.IDCategoria = c.IDCategoria
+WHERE p.StockActual <= p.StockMinimo 
+  AND p.Estado = 1;
+GO
+
 CREATE TRIGGER trg_AuditoriaPrecio
 ON Producto
 AFTER UPDATE
@@ -321,6 +339,21 @@ BEGIN
     WHERE d.PrecioVenta <> i.PrecioVenta;
 END;
 GO
+
+--Trigger de eliminación para restaurar stock post venta cancelada o seleccion cancelada
+CREATE TRIGGER trg_RestaurarStock
+ON DetalleProducto
+AFTER DELETE
+AS
+BEGIN
+    UPDATE p
+    SET p.StockActual = p.StockActual + d.Cantidad
+    FROM Producto p
+    INNER JOIN deleted d ON p.IDProducto = d.IDProducto;
+END;
+GO
+
+
 
 
 
