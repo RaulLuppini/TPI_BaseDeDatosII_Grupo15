@@ -107,5 +107,7 @@ namespace TP_ECOMMERCE_21_B
 
             btnMostrarMas.Visible = productosBase.Count > cantidadActual;
         }
+
+       
     }
 }

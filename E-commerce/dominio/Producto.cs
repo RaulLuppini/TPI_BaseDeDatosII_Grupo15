@@ -33,5 +33,9 @@ namespace dominio
         public  int StockMinimo { get; set; }
         public bool Estado {  get; set; }
 
+        public int CantidadAReponer { get; set; }
+
+      
+
     }
 }

@@ -176,6 +176,7 @@
     <Content Include="Scripts\WebForms\carrito.js" />
     <Content Include="profile.aspx" />
     <Content Include="pedidos.aspx" />
+    <Content Include="ReporteReposicion.aspx" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
@@ -371,6 +372,13 @@
     </Compile>
     <Compile Include="pedidos.aspx.designer.cs">
       <DependentUpon>pedidos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteReposicion.aspx.cs">
+      <DependentUpon>ReporteReposicion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReporteReposicion.aspx.designer.cs">
+      <DependentUpon>ReporteReposicion.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

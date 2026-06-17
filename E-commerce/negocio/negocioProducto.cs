@@ -58,7 +58,10 @@ namespace negocio
             }
         }
 
-        public void agregarProducto(Producto nuevo)
+   
+        
+
+    public void agregarProducto(Producto nuevo)
         {
             AccesoDatos datos = new AccesoDatos();
             try
@@ -305,6 +308,46 @@ namespace negocio
                     return (int)datos.Lector[0] > 0;
 
                 return false;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
+
+        public List<Producto> listarProductosAReponer()
+        {
+            List<Producto> lista = new List<Producto>();
+            AccesoDatos datos = new AccesoDatos();
+            try
+            {
+                datos.setearConsulta("SELECT IDProducto, Codigo, Producto, Marca, Categoria, StockActual, StockMinimo, CantidadAReponer FROM VW_ProductosAReponer");
+                datos.ejecutarLectura();
+
+                while (datos.Lector.Read())
+                {
+                    Producto producto = new Producto();
+                    producto.Id = (int)datos.Lector["IDProducto"];
+                    producto.Codigo = (string)datos.Lector["Codigo"];
+                    producto.Nombre = (string)datos.Lector["Producto"];
+
+                    producto.IdMarca = new Marca();
+                    producto.IdMarca.Nombre = (string)datos.Lector["Marca"];
+
+                    producto.IdCategoria = new Categoria();
+                    producto.IdCategoria.Nombre = (string)datos.Lector["Categoria"];
+
+                    producto.StockActual = (int)datos.Lector["StockActual"];
+                    producto.StockMinimo = (int)datos.Lector["StockMinimo"];
+                    producto.CantidadAReponer = (int)datos.Lector["CantidadAReponer"];
+
+                    lista.Add(producto);
+                }
+                return lista;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
             }
             finally
             {

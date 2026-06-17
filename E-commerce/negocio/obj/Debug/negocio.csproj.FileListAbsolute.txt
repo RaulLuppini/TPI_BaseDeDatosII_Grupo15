@@ -45,3 +45,19 @@ D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\obj
 D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\obj\Debug\negocio.csproj.Up2Date
 D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\obj\Debug\negocio.dll
 D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\negocio\obj\Debug\negocio.pdb
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\negocio.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\negocio.pdb
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\accesoAdatos.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\dominio.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\MercadoPago.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\accesoAdatos.pdb
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\dominio.pdb
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\MercadoPago.pdb
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\MercadoPago.xml
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\obj\Debug\negocio.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\negocio\obj\Debug\negocio.pdb

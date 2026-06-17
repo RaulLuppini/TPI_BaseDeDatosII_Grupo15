@@ -33,3 +33,15 @@ D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\obj
 D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\obj\Debug\dominio.csproj.Up2Date
 D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\obj\Debug\dominio.dll
 D:\Documentos\UTN\5 CUATRIMESTRE\BaseDeDatos2\ModeloT.P.I\E-commerce\dominio\obj\Debug\dominio.pdb
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\bin\Debug\dominio.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\bin\Debug\dominio.pdb
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\bin\Debug\MercadoPago.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\bin\Debug\MercadoPago.pdb
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\bin\Debug\MercadoPago.xml
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\obj\Debug\dominio.csproj.Up2Date
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\obj\Debug\dominio.dll
+C:\Users\nahir\OneDrive\Escritorio\Estudio\TUP\BDII\TPI_BaseDeDatosII_Grupo15\E-commerce\dominio\obj\Debug\dominio.pdb
