@@ -1,1 +1,9 @@
-E-commerce/TP-ECOMMERCE-21-B/.vs/
+.vs/
+*.user
+*.suo
+*.db
+*.cache
+bin/
+obj/
+*.pdb
+*.log
