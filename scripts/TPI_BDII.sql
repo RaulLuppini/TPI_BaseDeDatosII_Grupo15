@@ -209,11 +209,11 @@ BEGIN
         IF EXISTS (SELECT 1 FROM Usuario WHERE IDUsuario = @IDUsuario AND Contrasenia = @CurrentPassword)
         BEGIN
             UPDATE Usuario SET Contrasenia = @NewPassword WHERE IDUsuario = @IDUsuario;
-            SELECT 'OK' AS Resultado, 'Contraseña actualizada correctamente' AS Mensaje;
+            SELECT 'OK' AS Resultado, 'Contraseï¿½a actualizada correctamente' AS Mensaje;
         END
         ELSE
         BEGIN
-            SELECT 'ERROR' AS Resultado, 'La contraseña actual no coincide' AS Mensaje;
+            SELECT 'ERROR' AS Resultado, 'La contraseï¿½a actual no coincide' AS Mensaje;
         END
     END TRY
     BEGIN CATCH
@@ -309,7 +309,7 @@ SELECT
 FROM Usuario;
 GO
 
---Vista para chequear productos que requieren reposición
+--Vista para chequear productos que requieren reposiciï¿½n
 CREATE VIEW VW_ProductosAReponer AS
 SELECT 
     p.IDProducto,
@@ -327,6 +327,33 @@ WHERE p.StockActual <= p.StockMinimo
   AND p.Estado = 1;
 GO
 
+CREATE VIEW VW_ProductoMasVendido as
+Select 
+P.IDProducto,
+P.Nombre,
+SUM (DP.Cantidad) as Venta_Total
+
+from Producto as P
+inner join DetalleProducto as DP
+on DP.IDProducto = P.IDProducto
+group by 
+P.IDProducto,
+P.Nombre;
+
+GO
+
+Create trigger TR_DescontarDeStock
+on DetalleProducto 
+after insert
+as begin 
+ Update Prod
+ set Prod.StockActual = Prod.StockActual - I.Cantidad
+ from Producto as Prod
+ inner join inserted as I ON Prod.IDProducto = I.IDProducto;
+ end;
+
+GO
+
 CREATE TRIGGER trg_AuditoriaPrecio
 ON Producto
 AFTER UPDATE
@@ -340,7 +367,7 @@ BEGIN
 END;
 GO
 
---Trigger de eliminación para restaurar stock post venta cancelada o seleccion cancelada
+--Trigger de eliminaciï¿½n para restaurar stock post venta cancelada o seleccion cancelada
 CREATE TRIGGER trg_RestaurarStock
 ON DetalleProducto
 AFTER DELETE
