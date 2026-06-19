@@ -15,7 +15,7 @@ namespace TP_ECOMMERCE_21_B
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-           
+          
 
             if (!IsPostBack)
             {
@@ -29,10 +29,22 @@ namespace TP_ECOMMERCE_21_B
                     ttlp.Text = String.Format(p.Nombre);
                     labelDescripcionText.Text = String.Format(p.Descripcion);
                     labelPrecioNormal.Text = String.Format(p.PrecioVenta.ToString());
-                    imgProducto.ImageUrl = p.Imagenes[0].Url;
+
+                    
+                    if (p.Imagenes != null && p.Imagenes.Count > 0)
+                    {
+                        imgProducto.ImageUrl = p.Imagenes[0].Url;
+                    }
+                    else
+                    {
+                       
+                        imgProducto.ImageUrl = "https://t3.ftcdn.net/jpg/04/62/93/66/360_F_462936689_BpEEcxfgMuYPfTaIAOC1tCDurmsno7Sp.jpg";
+                    }
+
                     numLabel.Text = "0";
+
                 }
-            }
+        }
         }
 
         protected void click_buttonRest(object sender, EventArgs e)

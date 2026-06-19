@@ -119,6 +119,8 @@ CREATE TABLE AuditoriaPrecio (
 );
 GO
 
+USE [TPI_BDII];
+GO
 CREATE PROCEDURE sp_InsertarProducto
     @Codigo VARCHAR(50),
     @Nombre VARCHAR(100),
@@ -222,7 +224,8 @@ BEGIN
 END;
 GO
 
-
+USE [TPI_BDII]
+GO
 CREATE PROCEDURE sp_DeshacerCompra
     @IDPedido INT,
     @Exito BIT
@@ -367,20 +370,23 @@ BEGIN
 END;
 GO
 
---Trigger de eliminaci�n para restaurar stock post venta cancelada o seleccion cancelada
-CREATE TRIGGER trg_RestaurarStock
-ON DetalleProducto
-AFTER DELETE
+--Trigger para restaurar stock post venta cancelada o seleccion cancelada
+
+Create trigger trg_RestaurarStock ON Pedido
+AFTER UPDATE
 AS
 BEGIN
-    UPDATE p
-    SET p.StockActual = p.StockActual + d.Cantidad
-    FROM Producto p
-    INNER JOIN deleted d ON p.IDProducto = d.IDProducto;
+    IF EXISTS (SELECT 1 FROM inserted i JOIN deleted d ON i.IDPedido = d.IDPedido 
+               JOIN EstadoPedido es ON i.IDEstado = es.IDEstado
+               WHERE es.Nombre = 'Cancelado' AND d.IDEstado <> i.IDEstado)
+    BEGIN
+        UPDATE p
+        SET p.StockActual = p.StockActual + d.Cantidad
+        FROM Producto p
+       
+        INNER JOIN DetalleProducto d ON p.IDProducto = d.IDProducto
+        INNER JOIN inserted i ON d.IDPedido = i.IDPedido
+        WHERE i.IDEstado = (SELECT IDEstado FROM EstadoPedido WHERE Nombre = 'Cancelado');
+    END
 END;
 GO
-
-
-
-
-

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using negocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -18,7 +19,21 @@ namespace TP_ECOMMERCE_21_B
                 Response.Redirect("Ecommerce.aspx");
 
             }
+            // Cancelación de compra
+            if (Request.QueryString["action"] == "cancelar" && Request.QueryString["id"] != null)
+            {
+                int idPedido = int.Parse(Request.QueryString["id"]);
+                negocioPedido np = new negocioPedido();
 
+             
+                np.actualizarEstado(idPedido, "Cancelado");
+
+                
+                np.verificarDetallePedido(idPedido, false);
+
+             
+                Response.Redirect("pedidos.aspx");
+            }
         }
     }
 }

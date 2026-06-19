@@ -34,10 +34,19 @@
                               <%foreach (DetallePedido detalle in pedido.DetallePedidos)
                                   { %>
                                   <p><%=detalle.nombreProducto %> x <%=detalle.cantidadProducto%></p>
-                              <%} %>
+                              <%}%>
                                  </div>
                               <p><%=pedido.PrecioTotal%></p>
                               </div>
+                          <% if (pedido.Estado == "Activo" || pedido.Estado == "Pendiente") { %>
+                            <div style="margin-top: 15px;">
+                            <a href="pedidos.aspx?action=cancelar&id=<%=pedido.Id%>" 
+                            style="background-color: #dc3545; color: white; padding: 8px 12px; text-decoration: none; border-radius: 5px; font-weight: bold;">
+                            Cancelar compra
+                                </a>
+                            </div>
+                        <%}%>
+                        </div>
                           </div>
                <%index++;%>
                  <% }%>

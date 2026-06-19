@@ -157,7 +157,7 @@ namespace negocio
             try
             {
 
-                datos.setearProcedimiento("Desahacer_Compra");
+                datos.setearProcedimiento("sp_DeshacerCompra");
                 datos.limpiarParametros();
                 datos.agregarParametros("@idpedido", idpedido);
                 datos.agregarParametros("@exito", response);
