@@ -41,6 +41,7 @@ namespace negocio
                 throw;
             }
         }
+
         public Usuario Login(string email, string clave)
         {
             AccesoDatos datos = new AccesoDatos();
@@ -55,11 +56,16 @@ namespace negocio
                 {
                     Usuario usuario = new Usuario();
                     usuario.Id = (int)datos.Lector["IDUsuario"];
-                    usuario.Nombre = (string)datos.Lector["Nombre"];
-                    usuario.Apellido = (string)datos.Lector["Apellido"];
+
+                    usuario.Nombre = datos.Lector["Nombre"] != DBNull.Value ? (string)datos.Lector["Nombre"] : "";
+                    usuario.Apellido = datos.Lector["Apellido"] != DBNull.Value ? (string)datos.Lector["Apellido"] : "";
+
+                 
                     usuario.Email = (string)datos.Lector["Correo"];
                     usuario.RolUsuario = (string)datos.Lector["Rol"];
-                    usuario.Telefono = (string)datos.Lector["Telefono"];
+
+                    
+                    usuario.Telefono = datos.Lector["Telefono"] != DBNull.Value ? (string)datos.Lector["Telefono"] : "";
 
                     return usuario;
                 }
@@ -75,6 +81,7 @@ namespace negocio
                 datos.cerrarConexion();
             }
         }
+
         public void agregarUsuario(Usuario nuevo)
         {
             AccesoDatos datos = new AccesoDatos();

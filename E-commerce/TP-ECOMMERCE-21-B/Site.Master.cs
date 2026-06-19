@@ -19,9 +19,7 @@ namespace TP_ECOMMERCE_21_B
                 string currentPage = Path.GetFileName(Request.Url.AbsolutePath).ToLower();
                 bool esRegistroPublico = currentPage.Contains("altausuario") && Session["usuario"] == null;
 
-
                 // Mostrar menú solo si estás en gestionProductos.aspx
-               
                 lnkCarrito.Visible = !(
                 currentPage.Contains("carritowithmaster") ||
                 currentPage.Contains("gestion") ||
@@ -30,15 +28,16 @@ namespace TP_ECOMMERCE_21_B
                 currentPage.Contains("login") ||
                 currentPage.Contains("altausuario"));
 
-
                 Usuario usuario = Session["usuario"] as Usuario;
 
-                if (usuario!=null && !esRegistroPublico)
+                if (usuario != null && !esRegistroPublico)
                 {
                     lblUsuario.Text = $"Hola, {usuario.Nombre}";
                     pnlUsuario.Visible = true;
                     btnLogin.Visible = false;
-                    if(usuario.RolUsuario=="Admin" || usuario.RolUsuario=="admin")
+
+                    
+                    if (usuario.RolUsuario == "Admin" || usuario.RolUsuario == "admin" || usuario.RolUsuario == "Administrador")
                     {
                         phGestionLinks.Visible = true;
                         userLinks.Visible = false;
@@ -48,7 +47,6 @@ namespace TP_ECOMMERCE_21_B
                         phGestionLinks.Visible = false;
                         userLinks.Visible = true;
                     }
-                    
                 }
                 else
                 {
@@ -57,24 +55,13 @@ namespace TP_ECOMMERCE_21_B
                     phGestionLinks.Visible = false;
                     userLinks.Visible = false;
                 }
-
-
-
             }
-
         }
+
         protected void btnLogout_Click(object sender, EventArgs e)
         {
             Session.Clear();
             Response.Redirect("Ecommerce.aspx");
         }
-
-
-
-
-
-
-
-
     }
 }
