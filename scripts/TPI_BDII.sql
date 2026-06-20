@@ -390,3 +390,46 @@ BEGIN
     END
 END;
 GO
+
+--Vista para identificar clientes con más compras y su gasto total
+CREATE VIEW VW_ClientesFrecuentes AS
+SELECT
+    u.IDUsuario,
+    u.Nombre,
+    u.Apellido,
+    u.Correo,
+    COUNT(p.IDPedido) AS CantidadPedidos,
+    SUM(p.Precio) AS TotalGastado
+FROM Usuario u
+INNER JOIN Pedido p
+    ON u.IDUsuario = p.IDUsuario
+GROUP BY
+    u.IDUsuario,
+    u.Nombre,
+    u.Apellido,
+    u.Correo;
+GO
+
+-- Procedimiento almacenado para obtener detalle completo de un pedido
+CREATE PROCEDURE sp_DetallePedido
+    @IDPedido INT
+AS
+BEGIN
+    SELECT
+        p.IDPedido,
+        p.FechaPedido,
+        u.Nombre + ' ' + u.Apellido AS Cliente,
+        pr.Nombre AS Producto,
+        dp.Cantidad,
+        dp.PrecioUnitario,
+        dp.Cantidad * dp.PrecioUnitario AS Subtotal
+    FROM Pedido p
+    INNER JOIN Usuario u
+        ON p.IDUsuario = u.IDUsuario
+    INNER JOIN DetalleProducto dp
+        ON p.IDPedido = dp.IDPedido
+    INNER JOIN Producto pr
+        ON dp.IDProducto = pr.IDProducto
+    WHERE p.IDPedido = @IDPedido;
+END;
+GO
