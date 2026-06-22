@@ -119,6 +119,28 @@ CREATE TABLE AuditoriaPrecio (
 );
 GO
 
+CREATE TABLE AuditoriaImagenesBorradas (
+    IDAuditoria INT IDENTITY(1,1) PRIMARY KEY,
+    IDProducto INT NOT NULL,
+    URLBorrada VARCHAR(255) NOT NULL,
+    FechaBorrado DATETIME NOT NULL
+);
+GO
+
+--Trigger auditoria imagenes borradas del producto
+CREATE TRIGGER trg_RespaldoImagenEliminada
+ON Imagenes
+AFTER DELETE
+AS
+BEGIN
+    INSERT INTO AuditoriaImagenesBorradas (IDProducto, URLBorrada, FechaBorrado)
+    SELECT d.IDProducto, d.URL, GETDATE()
+    FROM deleted d;
+END;
+GO
+---------------------------------------------------------------
+--Procedimientos--
+
 USE [TPI_BDII];
 GO
 CREATE PROCEDURE sp_InsertarProducto
@@ -224,8 +246,6 @@ BEGIN
 END;
 GO
 
-USE [TPI_BDII]
-GO
 CREATE PROCEDURE sp_DeshacerCompra
     @IDPedido INT,
     @Exito BIT
@@ -240,6 +260,8 @@ BEGIN
 END;
 GO
 
+----------------------------------------------------
+--Vistas
 
 CREATE VIEW VW_ListarProductos AS
 SELECT 

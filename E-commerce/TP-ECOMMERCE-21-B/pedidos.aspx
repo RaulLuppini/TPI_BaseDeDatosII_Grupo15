@@ -53,7 +53,7 @@
                <%}%>
 
        
-    </div>
+    
 
        <script src="<%= ResolveUrl("~/Scripts/WebForms/pedidos.js") %>"></script>
 </asp:Content>
