@@ -74,7 +74,9 @@ namespace negocio
             AccesoDatos datos = new AccesoDatos();
 
             try{
-                datos.setearConsulta("SELECT URL FROM IMAGENES WHERE IDProducto=@ID");
+                
+
+                datos.setearConsulta("SELECT IDImagen, URL FROM IMAGENES WHERE IDProducto=@ID");
                 datos.limpiarParametros();
                 datos.agregarParametros("@id", id);
                 datos.ejecutarLectura();
@@ -82,6 +84,9 @@ namespace negocio
                 while (datos.Lector.Read())
                 {
                     Imagen img = new Imagen();
+                   
+                    img.Id = (int)datos.Lector["IDImagen"];
+
                     img.Url = (string)datos.Lector["Url"];
                     img.IdProducto = id;
                     imagenes.Add(img);

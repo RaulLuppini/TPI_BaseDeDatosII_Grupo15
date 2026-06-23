@@ -72,6 +72,7 @@
                         <asp:TextBox ID="txtUrlImagen" runat="server" AutoPostBack="false" CssClass="form-control me-2" placeholder="Url" />
                         <asp:Button ID="btnVistaPrevia" runat="server" Text="Vista previa" CssClass="btn btn-info me-2" OnClick="btnVistaPrevia_Click" />
                         <asp:Button ID="btnCargar" runat="server" Text="Cargar Imagen" CssClass="btn btn-success" OnClick="btnCargar_Click" />
+                        
                     </div>
 
 
@@ -84,7 +85,13 @@
 
 
                                     <asp:Button ID="btnModificarImagen" runat="server" Text="Modificar" CommandName="Modificar" CommandArgument='<%# Eval("Url") %>' Visible='<%# Session["modificarId"] != null %>' CssClass="btn btn-sm btn-danger mt-1" />
-                                </div>
+                               
+                                    <asp:Button 
+                                        ID="btnEliminarImagen" runat="server" Text="Eliminar"  CssClass="btn btn-danger btn-sm" 
+                                        CommandArgument='<%# Eval("Id") %>' OnClick="btnEliminarImagen_Click" />
+                                   
+                                    </div>
+
                             </ItemTemplate>
                         </asp:Repeater>
 

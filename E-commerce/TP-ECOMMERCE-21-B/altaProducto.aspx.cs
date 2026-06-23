@@ -6,6 +6,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using accesoAdatos;
 
 namespace TP_ECOMMERCE_21_B
 {
@@ -297,6 +298,35 @@ namespace TP_ECOMMERCE_21_B
         {
             Response.Redirect("gestionProductos.aspx");
         }
+
+        //Boton para eliminar imagen existente en BD
+        protected void btnEliminarImagen_Click(object sender, EventArgs e)
+        {
+            Button btn = (Button)sender;
+            int idImagenAEliminar = Convert.ToInt32(btn.CommandArgument);
+            AccesoDatos datos = new AccesoDatos();
+            try
+            {
+                string consultaSQL = "DELETE FROM Imagenes WHERE IDImagen = @IDImagen";
+                datos.setearConsulta(consultaSQL);
+                datos.agregarParametros("@IDImagen", idImagenAEliminar);
+                datos.ejecutarAccion();
+
+                Response.Redirect(Request.RawUrl, false);
+            }
+    
+            catch (Exception ex)
+            {
+                Session["error"] = ex.Message;
+                Response.Redirect("Error.aspx", false);
+            }
+    
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
+
 
         protected void rptImagenes_ItemCommand(object source, RepeaterCommandEventArgs e)
         {

@@ -45,12 +45,9 @@
                             Cancelar compra
                                 </a>
                             </div>
-                        <%}%>
-                        </div>
-                          </div>
-               <%index++;%>
-                 <% }%>
-               <%}%>
+                          <%}%>
+                      </div> <%index++;%>
+                 <% }%> <%}%> </div> ```
 
        
     

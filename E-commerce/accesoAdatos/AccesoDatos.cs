@@ -97,5 +97,7 @@ namespace accesoAdatos
         {
            return comando.Parameters.Add(param,sql);
         }
+
+       
     }
 }
