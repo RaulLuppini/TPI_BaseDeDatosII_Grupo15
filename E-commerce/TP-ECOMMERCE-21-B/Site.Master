@@ -56,15 +56,24 @@
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
 
-                       <asp:PlaceHolder ID="phGestionLinks" runat="server" Visible="false">
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/ReporteReposicion.aspx">Reporte Stock</a></li>
-                        </asp:PlaceHolder>
-                        
-                        <asp:PlaceHolder ID="userLinks" runat="server" Visible="false">
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/profile">Mi perfil</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/pedidos">Mis pedidos</a></li>
-                        </asp:PlaceHolder>
+                        <asp:PlaceHolder ID="phGestionLinks" runat="server" Visible="false">
 
+                            <li class="nav-item"><a class="nav-link" runat="server" href="~/gestionProductos">Gestion Productos</a></li>
+                            <li class="nav-item"><a class="nav-link" runat="server" href="~/gestionUsuario">Gestion Usuarios</a></li>
+                            <li class="nav-item"><a class="nav-link" runat="server" href="~/gestionPedido">Gestion Pedidos</a></li>
+                            <li class="nav-item"><a class="nav-link" runat="server" href="~/gestionCategoria">Gestion Categoria</a></li>
+                            <li class="nav-item"><a class="nav-link" runat="server" href="~/ReporteReposicion.aspx">Reporte Stock</a></li>
+
+                            <!--
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/altaProducto">Alta Productos</a></li>
+                        -->
+                         </asp:PlaceHolder>
+
+                        <asp:PlaceHolder ID="userLinks" runat="server" Visible="false">
+
+                            <li class="nav-item"><a class="nav-link" runat="server" href="~/profile">Mi perfil</a></li>
+                            <li class="nav-item"><a class="nav-link" runat="server" href="~/pedidos">Mis pedidos</a></li>
+                        </asp:PlaceHolder>
                     </ul>
                 </div>
             </div>

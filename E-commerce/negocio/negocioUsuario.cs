@@ -22,15 +22,15 @@ namespace negocio
                 {
                     Usuario users = new Usuario();
                     users.Id = (int)datos.Lector["IDUsuario"];
-                    users.Dni = (string)datos.Lector["Dni"];
-                    users.Nombre = (string)datos.Lector["Nombre"];
-                    users.Apellido = (string)datos.Lector["Apellido"];
-                    users.Email = (string)datos.Lector["Correo"];
+                    users.Dni = datos.Lector["Dni"] != DBNull.Value ? (string)datos.Lector["Dni"] : "";
+                    users.Nombre = datos.Lector["Nombre"] != DBNull.Value ? (string)datos.Lector["Nombre"] : "";
+                    users.Apellido = datos.Lector["Apellido"] != DBNull.Value ? (string)datos.Lector["Apellido"] : "";
+                    users.Email = datos.Lector["Correo"] != DBNull.Value ? (string)datos.Lector["Correo"] : "";
                     users.Direccion = datos.Lector["Direccion"] != DBNull.Value ? (string)datos.Lector["Direccion"] : null;
                     users.CodigoPostal = datos.Lector["CodigoPostal"] != DBNull.Value ? (string)datos.Lector["CodigoPostal"] : null;
                     users.Estado = (bool)datos.Lector["Estado"];
-                    users.RolUsuario = (string)datos.Lector["Rol"];
-                    users.Telefono = (string)datos.Lector["Telefono"];
+                    users.RolUsuario = datos.Lector["Rol"] != DBNull.Value ? (string)datos.Lector["Rol"] : "";
+                    users.Telefono = datos.Lector["Telefono"] != DBNull.Value ? (string)datos.Lector["Telefono"] : "";
                     lista.Add(users);
                 }
                 return lista;
