@@ -366,7 +366,8 @@ P.IDProducto,
 P.Nombre;
 
 GO
-
+-------------------------------------
+--TRIGGERS
 Create trigger TR_DescontarDeStock
 on DetalleProducto 
 after insert
